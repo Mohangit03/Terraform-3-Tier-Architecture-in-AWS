@@ -1,8 +1,15 @@
 # Terraform-3-Tier-Architecture-in-AWS
 Terraform 3-Tier Architecture in AWS
+
+
 AWS CONFIGURE
-•	Go to the AWS Management  Go to the IAM  Create the IAM Account with Access Key and Secret Key  Download the .csv File.
-•	Open the CMD Prompt  Enter the #aws configure Command  Configuration the Access Key and Secret Key.
+•	Go to the AWS Management
+ Go to the IAM
+ Create the IAM Account with Access Key and Secret Key 
+ Download the .csv File.
+•	Open the CMD Prompt 
+ Enter the #aws configure Command
+ Configuration the Access Key and Secret Key.
  
 •	Create the .html file
 •	Put the Name to .sh format, this is used for User Data.
@@ -41,11 +48,11 @@ Creating the Database
 
 •	Now, all the infrastructure is uploaded to the Main.tf and saved.
 •	Then following commands are used to deploy the Codes.
-# terraform init
-# terraform fmt
-# terraform validate
-# terraform plan
-# terraform apply
+ # terraform init
+ # terraform fmt
+ # terraform validate
+ # terraform plan
+ # terraform apply
  
  
  
